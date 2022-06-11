@@ -8,6 +8,7 @@ Mykyta Horovoi is a second-year student of the MA program in Economic Analysis a
 
 ```{r}
 #| echo: false
+#| warning: false
 #| layout-ncol: 2
 #| fig-cap: 
 #|   - "Speed and Stopping Distances of Cars"
