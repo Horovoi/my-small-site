@@ -1,5 +1,6 @@
+# to ignore
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
-.Rproj
+*.Rproj
