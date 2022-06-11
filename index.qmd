@@ -5,7 +5,8 @@ title: "Mykyta Horovoi"
 Mykyta Horovoi is a second-year student of the MA program in Economic Analysis at KSE.
 
 ![It's a meme](images/Honest_Work.png)
-
+  
+## Some random plots from the Internet
 ```{r}
 #| echo: false
 #| warning: false
