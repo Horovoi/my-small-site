@@ -1,0 +1,18 @@
+---
+title: "Mykyta Horovoi"
+---
+
+Mykyta Horovoi is a second-year student of the MA program in Economic Analysis at KSE.
+
+![It's a meme](images/Honest_Work.png)
+
+```{r}
+#| echo: false
+#| layout-ncol: 2
+#| fig-cap: 
+#|   - "Speed and Stopping Distances of Cars"
+#|   - "Vapor Pressure of Mercury as a Function of Temperature"
+
+plot(cars)
+plot(pressure)
+```
