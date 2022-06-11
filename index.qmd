@@ -12,7 +12,11 @@ Mykyta Horovoi is a second-year student of the MA program in Economic Analysis a
 #| fig-cap: 
 #|   - "Speed and Stopping Distances of Cars"
 #|   - "Vapor Pressure of Mercury as a Function of Temperature"
+library(tidyverse)
 
-plot(cars)
-plot(pressure)
+ggplot(cars, aes(x = speed, y = dist)) +
+  geom_point()
+
+ggplot(pressure, aes(x = temperature, y = pressure)) +
+  geom_point()
 ```
