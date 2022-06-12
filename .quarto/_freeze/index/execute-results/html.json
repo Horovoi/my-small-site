@@ -1,7 +1,7 @@
 {
-  "hash": "7508bc8733be842e86476a96241f5ee7",
+  "hash": "946269bedbeff006dbe0a79c85e5f18c",
   "result": {
-    "markdown": "---\ntitle: \"Mykyta Horovoi\"\n---\n\n\nMykyta Horovoi is a second-year student of the MA program in Economic Analysis at KSE.\n\n![It's a meme](images/Honest_Work.png)\n  \n## Some random plots from the Internet\n\n::: {.cell layout-ncol=\"2\"}\n::: {.cell-output-display}\n![Speed and Stopping Distances of Cars](index_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n\n::: {.cell-output-display}\n![Vapor Pressure of Mercury as a Function of Temperature](index_files/figure-html/unnamed-chunk-1-2.png){width=672}\n:::\n:::\n",
+    "markdown": "---\ntitle: \"Mykyta Horovoi\"\n---\n\n\nMykyta Horovoi is a second-year student of the MA program in Economic Analysis at KSE. Also, he is found of memes!\n\n![It's a meme](images/Honest_Work.png)\n  \n## Some random plots from the Internet\n\n::: {.cell layout-ncol=\"2\"}\n::: {.cell-output-display}\n![Speed and Stopping Distances of Cars](index_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n\n::: {.cell-output-display}\n![Vapor Pressure of Mercury as a Function of Temperature](index_files/figure-html/unnamed-chunk-1-2.png){width=672}\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],
